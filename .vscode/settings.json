@@ -1,0 +1,14 @@
+{
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"tslint.jsEnable": true,
+	"tslint.autoFixOnSave": true,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"auto-close-tag.activationOnLanguage": [
+		"html",
+		"javascriptreact",
+		"typescriptreact"
+	]
+}
